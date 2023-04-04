@@ -6,6 +6,6 @@
 - 💬 Ask me about Go, Kubernetes, weight lifting, or Mandarin
 - 📚 Currently learning Rust, Typescript/React/JS
 - 🀄️ I speak Mandarin/English. 會講中文， 英文  
--📍Taipei
+- 📍 Taipei
 - 🇨🇦🇺🇸 Canadian-American
 - 📫 How to reach me: [@adamwuyadang](https://twitter.com/adamwuyadang) on Twitter.
