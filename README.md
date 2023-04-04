@@ -8,4 +8,5 @@
 - 🀄️ I speak Mandarin/English. 會講中文， 英文  
 - 📍 Taipei
 - 🇨🇦🇺🇸 Canadian-American
-- 📫 How to reach me: [@adamwuyadang](https://twitter.com/adamwuyadang) on Twitter.
+- 📫 How to reach me: [@adamwuyadang](https://twitter.com/adamwuyadang) on Twitter
+- Other github: [adam-woolhether](https://github.com/adam-woolhether)
