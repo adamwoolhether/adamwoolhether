@@ -4,8 +4,8 @@
 
 - 👨🏼‍💻 Backend Engineer @[Ubiquiti](https://github.com/ubiquiti)
 - 💬 Ask me about Go, Kubernetes, Linux, weight lifting
-- 📚 Currently learning Rust, Typescript/React/JS
-- 🀄️ I speak Mandarin/English. 會講中文， 英文  
+- 📚 Currently learning Zig, Typescript/React/JS(slowly)
+- 🀄️ I speak Mandarin/English, learning Japanese. 會講中文， 英文，正在學日文。
 - 🇨🇦🇺🇸 Canadian-American
 - 📫 [@adamwuyadang](https://twitter.com/adamwuyadang) on Twitter
 - Other github: [adam-woolhether](https://github.com/adam-woolhether)
